@@ -1,10 +1,6 @@
-## 👋 Hi there
-![liwu5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liwu5&count_private=true&show_icons=true&theme=chartreuse-dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liwu5&theme=chartreuse-dark)
-
-## 📫 Contact me
-
- - e-mail  : [liwu5@qq.cn](mailto:liwu5@qq.cn)
+## 欢迎来到我的主页 👋 
+![liwu5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liwu5&count_private=true&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liwu5&theme=dark)
 
 
 <!--
