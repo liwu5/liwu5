@@ -1,6 +1,6 @@
 ## 👋 Hi there
-[![liwu5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liwu5&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/liwu5)
-[![liwu5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liwu5&show_icons=true)](https://github.com/liwu5)
+![liwu5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liwu5&count_private=true&show_icons=true&theme=chartreuse-dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liwu5&theme=dark&layout=compact)
 
 ## 📫 Contact me
 
